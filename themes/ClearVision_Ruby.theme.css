@@ -27,7 +27,7 @@ Changelog: https://git.io/v6r5N
 	--main-color: #e62727;
 	--hover-color: #b31e1e;
     --background-blur: 0px;
-    --background-brightness: 100%;
+    --background-brightness: 50%;
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -46,7 +46,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label {
-    background-image: url(https://zerthox.github.io/ClearVision/images/ruby.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
+    background-image: url(https://wallpaperscraft.com/image/world_of_warcraft_dragon_fire_tail_16253_2048x1152.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
